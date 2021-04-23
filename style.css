@@ -1,0 +1,46 @@
+img {
+	width: 100px;
+	height: 150px;
+	text-align: center;
+}
+body{
+	margin: 25px 50px 75px 100px;
+	background: url(satu.jpg) no-repeat; 
+	background-size: cover;
+}
+h1 {
+	color: red;
+	text-align: center;
+	font-family: monospace;
+	text-shadow: 0 0 5px black;
+}
+.nct {
+	color: blue;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 5px;
+}
+th {
+	text-align: left;
+}
+#t01 {
+	background-color: #f1f1c1;
+	color: black;
+	width: 80%
+}
+#t01 th {
+	background-color: brown;
+	color: white;
+}
+p {
+	border-style: dotted;
+	color: red
+}
+#nct {
+	color: blue;
+	border-style: inset;
+}
